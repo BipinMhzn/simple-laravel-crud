@@ -1,4 +1,4 @@
-# Final Year Internship Project
+# Simple Laravel CRUD: WYESHR
 ## Dependencies
 Make sure you have installed:
 - Node
